@@ -4,6 +4,15 @@ A simple and interactive iOS application built using **SwiftUI**, demonstrating 
 
 ## 📱 Screenshots
 
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-09 at 18 52 39" src="https://github.com/user-attachments/assets/a0789dd7-6fb9-434e-94da-897700a9af27" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-09 at 18 52 52" src="https://github.com/user-attachments/assets/0510492b-3665-4cd3-a9ce-ba84a41451c7" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-09 at 18 52 59" src="https://github.com/user-attachments/assets/b0378921-4700-4145-aa28-cb79ed8ab90e" />
+
+
+
+
 <!-- Add your app screenshots here -->
 
 | Home Screen | Swipe Action | Delete Action |
