@@ -58,13 +58,17 @@ List {
 3. Select an iOS Simulator.
 4. Build and run the project.
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 **Anil Kumar Yadav**
+iOS Developer | Swift | UIKit
 
-- GitHub: https://github.com/anilyadavjnt
-- LinkedIn: https://www.linkedin.com/in/anilyadavjnt/
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
+
+Anil Yadav ( iOS Developer )
+
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
 
 ---
-
-If you find this project useful, don't forget to ⭐ the repository!
